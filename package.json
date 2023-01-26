@@ -8,7 +8,6 @@
   "version": "1.0.0",
   "description": "hosting json-server on render",
   "main": "server.js",
-  "type": "commonjs",
   "devDependencies": {},
   "scripts": {
     "start": "node server.js"
