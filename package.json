@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  },
+  "name": "json_server_demo",
+  "version": "1.0.0",
+  "description": "hosting json-server on render",
+  "main": "server.js",
+  "type": "commonjs",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Khaled Alabssi",
+  "license": "ISC"
+}
